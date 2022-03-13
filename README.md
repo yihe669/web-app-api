@@ -1,2 +1,2 @@
-# web-app-api
+# web-app
 Web learning 
